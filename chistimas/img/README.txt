@@ -1,1 +1,0 @@
-In this folder you'll need to add pictures or change the names of the images in ../utils/SImageprocess.ts
